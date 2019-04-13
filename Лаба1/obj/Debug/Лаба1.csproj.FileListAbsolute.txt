@@ -1,0 +1,2 @@
+C:\git\Лаба1\Лаба1\bin\Debug\Лаба1.exe.config
+Z:\git\Лаба1\Лаба1\bin\Debug\Лаба1.exe.config
